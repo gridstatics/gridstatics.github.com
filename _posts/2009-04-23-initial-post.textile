@@ -1,0 +1,8 @@
+---
+layout: post
+title: Initial Post
+---
+
+h1. {{ page.title }}
+
+We are alive!
